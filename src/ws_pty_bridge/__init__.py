@@ -1,0 +1,1 @@
+"""Authorized reverse WebSocket terminal."""
